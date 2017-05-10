@@ -1,7 +1,10 @@
-AAAA
+AAAAbbbb
 
 sdf
 
 
 dfg
+<<<<<<< HEAD
 2222
+=======
+>>>>>>> refs/remotes/origin/master
